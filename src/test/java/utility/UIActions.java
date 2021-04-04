@@ -1,2 +1,4 @@
-package utility;public class UIActions {
+package utility;
+
+public class UIActions {
 }
